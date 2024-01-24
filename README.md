@@ -31,11 +31,13 @@ $ npm run dev
 
 ## Stack utilizada
 
-ReactJS
+NodeJs,
 
-Styled-Components
+JavaScript
 
-Vite
+RESTful API
+
+SQLite
 
 
 ## Libraries
